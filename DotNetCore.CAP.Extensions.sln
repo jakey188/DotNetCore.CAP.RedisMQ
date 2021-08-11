@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Savorboard.CAP.InMemoryMessageQueue", "D:\Downloads\音乐\Savorboard.CAP.InMemoryMessageQueue-master\src\Savorboard.CAP.InMemoryMessageQueue\Savorboard.CAP.InMemoryMessageQueue.csproj", "{7AC2BA53-391B-4941-B435-0E96E694BF1F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.RedisMQ", "samples\Sample.RedisMQ\Sample.RedisMQ.csproj", "{5604EB67-5570-4876-B296-B6042EED6F87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C218E3AD-7E03-42A5-B35F-79B56D42B709}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{8E0A44D2-D016-4D5A-912A-308DD5A94917}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore.CAP.RedisMQ", "src\DotNetCore.CAP.RedisMQ\DotNetCore.CAP.RedisMQ.csproj", "{77DA99E5-2327-43A5-B0E5-0676C04F430C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AC2BA53-391B-4941-B435-0E96E694BF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC2BA53-391B-4941-B435-0E96E694BF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC2BA53-391B-4941-B435-0E96E694BF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC2BA53-391B-4941-B435-0E96E694BF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5604EB67-5570-4876-B296-B6042EED6F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5604EB67-5570-4876-B296-B6042EED6F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5604EB67-5570-4876-B296-B6042EED6F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5604EB67-5570-4876-B296-B6042EED6F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DA99E5-2327-43A5-B0E5-0676C04F430C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DA99E5-2327-43A5-B0E5-0676C04F430C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DA99E5-2327-43A5-B0E5-0676C04F430C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DA99E5-2327-43A5-B0E5-0676C04F430C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5604EB67-5570-4876-B296-B6042EED6F87} = {8E0A44D2-D016-4D5A-912A-308DD5A94917}
+		{77DA99E5-2327-43A5-B0E5-0676C04F430C} = {C218E3AD-7E03-42A5-B35F-79B56D42B709}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFF1776F-97EE-43F7-9BD0-B0424E84875D}
+	EndGlobalSection
+EndGlobal

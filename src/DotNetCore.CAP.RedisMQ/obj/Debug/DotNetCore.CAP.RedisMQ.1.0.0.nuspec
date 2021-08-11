@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DotNetCore.CAP.RedisMQ</id>
+    <version>1.0.0</version>
+    <authors>DotNetCore.CAP.RedisMQ</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="CSRedisCore" version="3.6.6" exclude="Build,Analyzers" />
+        <dependency id="DotNetCore.CAP" version="3.1.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\云畅\code\sdk\nuget\src\DotNetCore.CAP.RedisMQ\src\DotNetCore.CAP.RedisMQ\bin\Debug\netstandard2.0\DotNetCore.CAP.RedisMQ.dll" target="lib\netstandard2.0\DotNetCore.CAP.RedisMQ.dll" />
+  </files>
+</package>

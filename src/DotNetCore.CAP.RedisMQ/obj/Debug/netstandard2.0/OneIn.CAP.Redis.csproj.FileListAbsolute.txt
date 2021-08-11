@@ -1,0 +1,9 @@
+E:\云畅\code\实验性\OneIn.CAP.Redis\OneIn.CAP.Redis\obj\Debug\netstandard2.0\OneIn.CAP.Redis.csprojAssemblyReference.cache
+E:\云畅\code\实验性\OneIn.CAP.Redis\OneIn.CAP.Redis\obj\Debug\netstandard2.0\OneIn.CAP.Redis.AssemblyInfoInputs.cache
+E:\云畅\code\实验性\OneIn.CAP.Redis\OneIn.CAP.Redis\obj\Debug\netstandard2.0\OneIn.CAP.Redis.AssemblyInfo.cs
+E:\云畅\code\实验性\OneIn.CAP.Redis\OneIn.CAP.Redis\obj\Debug\netstandard2.0\OneIn.CAP.Redis.csproj.CoreCompileInputs.cache
+E:\云畅\code\实验性\OneIn.CAP.Redis\OneIn.CAP.Redis\bin\Debug\netstandard2.0\OneIn.CAP.Redis.deps.json
+E:\云畅\code\实验性\OneIn.CAP.Redis\OneIn.CAP.Redis\bin\Debug\netstandard2.0\OneIn.CAP.Redis.dll
+E:\云畅\code\实验性\OneIn.CAP.Redis\OneIn.CAP.Redis\bin\Debug\netstandard2.0\OneIn.CAP.Redis.pdb
+E:\云畅\code\实验性\OneIn.CAP.Redis\OneIn.CAP.Redis\obj\Debug\netstandard2.0\OneIn.CAP.Redis.dll
+E:\云畅\code\实验性\OneIn.CAP.Redis\OneIn.CAP.Redis\obj\Debug\netstandard2.0\OneIn.CAP.Redis.pdb

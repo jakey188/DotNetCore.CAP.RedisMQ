@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Thinkpad\\Desktop\\git\\DotNetCore.CAP.RedisMQ\\src\\DotNetCore.CAP.RedisMQ\\DotNetCore.CAP.RedisMQ.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Thinkpad\\Desktop\\git\\DotNetCore.CAP.RedisMQ\\src\\DotNetCore.CAP.RedisMQ\\DotNetCore.CAP.RedisMQ.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Thinkpad\\Desktop\\git\\DotNetCore.CAP.RedisMQ\\src\\DotNetCore.CAP.RedisMQ\\DotNetCore.CAP.RedisMQ.csproj",
+        "projectName": "DotNetCore.CAP.RedisMQ",
+        "projectPath": "c:\\Users\\Thinkpad\\Desktop\\git\\DotNetCore.CAP.RedisMQ\\src\\DotNetCore.CAP.RedisMQ\\DotNetCore.CAP.RedisMQ.csproj",
+        "packagesPath": "D:\\ProgramData\\nuget\\packages",
+        "outputPath": "c:\\Users\\Thinkpad\\Desktop\\git\\DotNetCore.CAP.RedisMQ\\src\\DotNetCore.CAP.RedisMQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://123.207.193.228:30888/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.onein.cn": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "CSRedisCore": {
+              "target": "Package",
+              "version": "[3.6.6, )"
+            },
+            "DotNetCore.CAP": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
